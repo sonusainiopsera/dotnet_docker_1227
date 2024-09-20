@@ -1,3 +1,4 @@
+#It's a updated docker file we have 
 # Stage 1: Build the application
 FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
 ARG BUILD_CONFIGURATION=Release
